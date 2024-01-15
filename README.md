@@ -19,4 +19,5 @@ L'objectif est d'installer les differents outils de developpement et de définir
 
 - Installer Git: [git-scm.com](https://git-scm.com/download/win)
 - Site pour trouver les notions importante: [roadmap.sh](https://roadmap.sh)
+- Pour voler des design: [Dribble](https://dribbble.com/shots/popular/web-design)
 - Offre d'emplois Indeed : Beaucoup de PHP, pas mal de Java/Angular, un peu de Node (et ses autres framework), un peu de python
